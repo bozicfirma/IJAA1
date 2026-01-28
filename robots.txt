@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bozicfirma.github.io/IJAA1/sitemap.xml
